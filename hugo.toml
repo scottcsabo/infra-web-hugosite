@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "Scott Sabo"
-theme = "hugo-coder"
+theme = ["hugo-coder", "hugo-shortcode-gallery"]
 enableInlineShortcodes = true
 languagecode = "en"
 defaultcontentlanguage = "en"
