@@ -1,9 +1,10 @@
 baseurl = "/"
 title = "Scott Sabo"
-theme = ["hugo-coder", "hugo-shortcode-gallery"]
+theme = ['hugo-coder', 'hugo-shortcode-gallery']
 enableInlineShortcodes = true
 languagecode = "en"
 defaultcontentlanguage = "en"
+timeout = 60000 # This is required for larger galleries to build (60 sec)
 
 paginate = 20
 
@@ -16,13 +17,12 @@ style = "github-dark"
   description = "The Personal Website of Scott Scott"
   keywords = "blog,scott sabo,personal, outdoors, homebrewing"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "scottsabo.xyz"
 
   faviconSVG = "images/favicon.svg"
   favicon_32 = "images/favicon-32x32.png"
   favicon_16 = "images/favicon-16x16.png"
 
-  enableTwemoji = true
+  enableTwemoji = false
 
   colorScheme = "auto"
   hidecolorschemetoggle = false

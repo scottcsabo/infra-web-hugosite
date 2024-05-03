@@ -10,6 +10,13 @@
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Thu, 02 May 2024 13:29:50 -0700</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>Hello and welcome to my little webpage! I am a seasoned IT professional, currently working as a senior systems administrator and working towards completing my bachelor&amp;rsquo;s degree. I have called Prescott, Arizona home for almost 25 years after spending most of my childhood down in Phoenix.&#xA;I love the outdoors and try to spend as much time as I possibly can outside in nature. I grew up outside, running, biking, swimming, hunting, fishing, and backpacking and have tried to continue that lifestyle into adulthood.</description>
+    </item>
+    <item>
+      <title></title>
       <link>//localhost:1313/resume/</link>
       <pubDate>Wed, 01 May 2024 13:29:50 -0700</pubDate>
       <guid>//localhost:1313/resume/</guid>
@@ -17,9 +24,9 @@
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/photography/</link>
+      <link>//localhost:1313/test/</link>
       <pubDate>Thu, 02 May 2024 13:29:50 -0700</pubDate>
-      <guid>//localhost:1313/photography/</guid>
+      <guid>//localhost:1313/test/</guid>
       <description> </description>
     </item>
     <item>
@@ -31,10 +38,10 @@
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/about/</link>
+      <link>//localhost:1313/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description></description>
+      <guid>//localhost:1313/photography/</guid>
+      <description>I have a passion for the great outdoors. I love going on adventures either by foot or on my beloved mountain bike. Being in nature helps me feel more connected to myself and the world around me and acts as a wonderful stress reliever.&#xA;I have had the opportunity to explore some truly remarkable places and have included a small collection of my photos from various adventures in the wild.</description>
     </item>
   </channel>
 </rss>
