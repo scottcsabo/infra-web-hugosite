@@ -5,7 +5,7 @@ weight: 4
 ---
 I've been brewing my own beer and mead for almost 15 years now. It has been a really enjoyable hobby and one that allows me to show a bit of my creative side. Here are a few of the recipes that I have devised and brewed over the years - a nice variety of common styles and some really out there ideas and flavors. All recipes are for a 5 gallon batch size.
 
-[Hot Pants](recipes/hot-pants-jalapeno-pepper) - A pale ale made with jalapeno peppers and cilantro!
+[Hot Pants](recipes/hot-pants-jalapeno-pepper) - A pale ale made with jalapeno peppers and cilantro! Play with the spice level by adding or removing peppers. 
 
 [Czech Pilsner](recipes/czech-pilsner) - A traditional Czech Pislner, brewed the traditional way, with multiple decoctions.
 
@@ -17,6 +17,14 @@ I've been brewing my own beer and mead for almost 15 years now. It has been a re
 
 [Gose](recipes/gose) - A solid Gose recipe that is easy to tweak to your desired sour and saltiness.
 
-[Dark Czech Pilsner](recipes/dark-czech-pilsner) - A traditional Dark Czech Pislner, brewed the traditional way, with multiple decoctions. This is one of my absolute favorites!
+[Dark Czech Pilsner](recipes/czech-dark-lager) - A traditional Dark Czech Pislner, brewed the traditional way, with multiple decoctions. This is one of my absolute favorites!
 
 [Brown Ale](recipes/brown) - This brown ale is part of my regular rotation and is absolute crowd pleaser!
+
+[Black Lager](recipes/black-lager) - This schwarzbier is smooth and goes down easy. The perfect beer for for those crisp fall and spring nights!
+
+[Blonde Ale](recipes/blonde) - This blonde is an easy drinker - perfect for a showerbeer after a long ride in the saddle.
+
+[California Common](recipes/cali-common) - This California Common is another beer that is in my regular rotation. 
+
+[Rhubarb Wheat](recipes/rhubarb-wheat) - This wheat is a standard wheat beer but with tartness from the rhubarb. It's kind of like drinking a sour beer without going through the process to brew one.
