@@ -8,7 +8,7 @@ draft: false
     Malts:
       Floor-Malted Bohemian Dark Pilsner    7.0 lb
       Munich - Dark 20L                     3.5 lb
-        <NAME>CaraMunich II                 2.0 lb
+      CaraMunich II                         2.0 lb
     HOPS:
       Saaz (CZ)                             2.0 oz 90.0 min
       Saaz (CZ)                             1.0 oz 20.0 min

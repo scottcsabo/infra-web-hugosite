@@ -4,6 +4,7 @@ draft: false
 ---
 ## Blonde Ale ##
     BJCP STYLE: Blonde Ale
+    
     Malts:
       2-Row         8.0 lb
       Honey Malt    0.5 lb

@@ -3,7 +3,9 @@ date: 2024-05-02T13:29:50-07:00
 draft: false
 weight: 4
 ---
-I've been brewing my own beer and mead for almost 15 years now. It has been a really enjoyable hobby and one that allows me to show a bit of my creative side. Here are a few of the recipes that I have devised and brewed over the years - a nice variety of common styles and some really out there ideas and flavors. All recipes are for a 5 gallon batch size.
+I've been brewing my own beer and mead for almost 15 years now. It has been a really enjoyable hobby and one that allows me to show a bit of my creative side. Here are a few of the recipes that I have devised and brewed over the years - a nice variety of common styles and some really out there ideas and flavors. 
+
+All recipes are for a 5 gallon batch size.
 
 [Hot Pants](recipes/hot-pants-jalapeno-pepper) - A pale ale made with jalapeno peppers and cilantro! Play with the spice level by adding or removing peppers. 
 
@@ -28,3 +30,5 @@ I've been brewing my own beer and mead for almost 15 years now. It has been a re
 [California Common](recipes/cali-common) - This California Common is another beer that is in my regular rotation. 
 
 [Rhubarb Wheat](recipes/rhubarb-wheat) - This wheat is a standard wheat beer but with tartness from the rhubarb. It's kind of like drinking a sour beer without going through the process to brew one.
+
+[Prickly Pear Mead](recipes/prickly-pear-mead) - A fruit forward, no water method, mead featuring the wonderful taste of prickly pear fruit. Just like with the beer, the color on this one is amazing!

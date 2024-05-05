@@ -1,0 +1,73 @@
+baseurl = "/"
+title = "Scott Sabo"
+theme = ['hugo-coder', 'hugo-shortcode-gallery']
+enableInlineShortcodes = true
+languagecode = "en"
+defaultcontentlanguage = "en"
+timeout = 60000 # This is required for larger galleries to build (60 sec)
+
+paginate = 20
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Scott Sabo"
+  info = "Technology Enthusiast | Outdoorsman | Homebrewer"
+  description = "The Personal Website of Scott Scott"
+  keywords = "blog,scott sabo,personal, outdoors, homebrewing"
+  avatarurl = "images/avatar.jpg"
+
+  faviconSVG = "images/favicon.svg"
+  favicon_32 = "images/favicon-32x32.png"
+  favicon_16 = "images/favicon-16x16.png"
+
+  enableTwemoji = false
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/scottcsabo"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/scottcsabo/"
+[[params.social]]
+  name = "Strava"
+  icon = "fa-brands fa-strava fa-2x"
+  weight = 3
+  url = "https://www.strava.com/athletes/1281278"
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url  = "about/"
+[[menu.main]]
+  name = "Resume"
+  weight = 2
+  url = "resume/"
+[[menu.main]]
+  name = "Photography"
+  weight = 3
+  url = "photography/"
+[[menu.main]]
+  name = "Beer Recipes"
+  weight = 4
+  url = "beer/"
