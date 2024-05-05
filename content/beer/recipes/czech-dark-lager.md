@@ -1,6 +1,7 @@
 ---
 date: 2024-05-02T13:29:50-07:00
 draft: false
+url: /beer/recipes/czech-dark-lager
 ---
 ## Czech Dark Lager ##
     BJCP STYLE: Schwarzbier (Black Beer)
