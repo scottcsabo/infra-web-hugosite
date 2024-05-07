@@ -43,16 +43,22 @@ style = "github-dark"
   icon = "fa-brands fa-github fa-2x"
   weight = 1
   url = "https://github.com/scottcsabo"
+  rel = "noopener noreferrer"
+  target = "_blank" 
 [[params.social]]
   name = "LinkedIn"
   icon = "fa-brands fa-linkedin fa-2x"
   weight = 2
   url = "https://www.linkedin.com/in/scottcsabo/"
+  rel = "noopener noreferrer"
+  target = "_blank" 
 [[params.social]]
   name = "Strava"
   icon = "fa-brands fa-strava fa-2x"
   weight = 3
   url = "https://www.strava.com/athletes/1281278"
+  rel = "noopener noreferrer"
+  target = "_blank" 
 
 # Menu links
 [[menu.main]]
@@ -71,3 +77,9 @@ style = "github-dark"
   name = "Beer Recipes"
   weight = 4
   url = "beer/"
+[[menu.main]]
+  name = "GitHub"
+  weight = 5
+  url = "https://github.com/scottcsabo"
+  target = "_blank"
+  rel = "noopener noreferrer"
