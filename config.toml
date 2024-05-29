@@ -71,9 +71,3 @@ style = "github-dark"
   name = "Beer Recipes"
   weight = 4
   url = "beer/"
-[[menu.main]]
-  name = "GitHub"
-  weight = 5
-  url = "https://github.com/scottcsabo"
-  target = "_blank"
-  rel = "noopener noreferrer"
